@@ -1,0 +1,59 @@
+
+.encabezado {
+    color: aliceblue;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Seccion {
+    color: aliceblue;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contenedor-principal {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.contenedor-noticia-1 {
+    width: 80%;
+    border: 1px solid rgb(62, 214, 2);
+    padding: 15px;
+    margin: 15px;
+    display: inline-block;
+
+}
+.contenedor-noticia-2 {
+    width: 60%;
+    border: 1px solid rgb(62, 214, 2) ;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+.contenedor-noticia-3 {
+    width: 80%;
+    border: 1px solid rgb(62, 214, 2);
+    padding: 15px;
+    margin: 15px;
+    display: inline-block;
+}
+.titulo2 {
+    color: rgb(246, 246, 246);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.parrafo1 {
+    color: beige;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body {
+    background-image: url(/image/fondo3.jpg);
+} 
+.mi-imagen {
+    width: 150px;
+}
